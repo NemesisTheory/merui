@@ -1,0 +1,9 @@
+{
+  "name": "merui",
+  "localizedName": "merui",
+  "author": "NemesisTheory",
+  "description": "merui",
+  "version": 0.1,
+  "minGameVersion": 140,
+  "hidden": true,
+}
